@@ -1,0 +1,38 @@
+
+@media screen and (max-width: 480px){
+    body {
+        height:1920px; 
+        width:1080px;
+        background-color: black;
+     }
+    
+    p {
+        max-width: 40%;
+        width: auto;
+    }
+
+    h4 {
+        margin-left: 9%;
+        margin-top: 5px;
+    }
+    
+    #button {
+        max-width: 20%;
+        width: auto;
+        margin-top: 15px;
+        margin-left: 10%;
+    }
+    
+    #marco {
+        max-width: 60%;
+        width: auto;
+        margin-bottom: 15px;
+        margin-left: 19px;
+        margin-top: 10px;
+    }
+    
+    #tattoos{
+        max-width: 40%;
+        width: auto;
+    }
+}
